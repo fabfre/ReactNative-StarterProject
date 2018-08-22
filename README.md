@@ -11,6 +11,6 @@ Start your React Native Project from stratch but with integrated react-navigatio
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 ## History
-Version: November 2017
+Version: August 2018
 ## Credits
 Thanks to Michael Kugler (kuglemic)
